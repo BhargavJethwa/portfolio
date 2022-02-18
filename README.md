@@ -4,7 +4,8 @@ Welcome to my portfolio site's source code. Feel free to use it for your own pro
 
 That being said, feel free to contribute to the project by making a pull request. If you find any issues, please open an issue.
 
-To visit the site, go to [`hetthakkar.me`](https://hetthakkar.me).
+To visit the site, go to 
+<!-- [`hetthakkar.me`](https://hetthakkar.me). -->
 
 ## Learn More
 
